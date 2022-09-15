@@ -1,0 +1,15 @@
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.csproj.AssemblyReference.cache
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.AssemblyInfoInputs.cache
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.AssemblyInfo.cs
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.csproj.CoreCompileInputs.cache
+E:\c# projects\series_summation\bin\Debug\net6.0\series_summation.exe
+E:\c# projects\series_summation\bin\Debug\net6.0\series_summation.deps.json
+E:\c# projects\series_summation\bin\Debug\net6.0\series_summation.runtimeconfig.json
+E:\c# projects\series_summation\bin\Debug\net6.0\series_summation.dll
+E:\c# projects\series_summation\bin\Debug\net6.0\series_summation.pdb
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.dll
+E:\c# projects\series_summation\obj\Debug\net6.0\refint\series_summation.dll
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.pdb
+E:\c# projects\series_summation\obj\Debug\net6.0\series_summation.genruntimeconfig.cache
+E:\c# projects\series_summation\obj\Debug\net6.0\ref\series_summation.dll
